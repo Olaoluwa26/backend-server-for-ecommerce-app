@@ -1,0 +1,19 @@
+{
+  "name": "backend-server-for-ecommerce-app",
+  "version": "1.0.0",
+  "description": "Backend Server for Lexi-Corp Online Ecommerce Shopping App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olaoluwa26/backend-server-for-ecommerce-app.git"
+  },
+  "author": "Leye and Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olaoluwa26/backend-server-for-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/Olaoluwa26/backend-server-for-ecommerce-app#readme"
+}
